@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stacksthenulls"
+version = "0.0.1"
+description = "Python library/package used in graphs and philosophical theories , By : STACKS the NULLS"
+authors = [{ name="0xSaad"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["vectorizersvg"]
