@@ -82,6 +82,8 @@ voidscan_code(source)
 
 Early stage — experimental and evolving.
 
+For check in [PyPi](https://pypi.org/project/stacksthenulls/)
+
 ---
 
 ## Author
